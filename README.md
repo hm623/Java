@@ -2,7 +2,7 @@ Java Projects for Java Data Structures
 
 Key Projects:
 
-******** Card Game - Terminal Edition 🎴*****************
+1. ******** Card Game - Terminal Edition 🎴*****************
 A console-based card game where a player competes against the computer, featuring text-based graphics, ANSI color formatting, and sound effects. The game is played entirely in the terminal, with dynamic visuals and an interactive user experience.
 
 Features
@@ -19,7 +19,7 @@ The computer plays against you, and the game follows predefined rules.
 Visual elements and card displays update dynamically using ANSI colors.
 
 
-************ Markov Text Generator 📜****************
+2. ************ Markov Text Generator 📜****************
 A Markov-based text generator that learns from an input text and produces realistic sequences of words using probabilistic modeling. This program uses Markov chains to predict the next word based on previous words, generating coherent text outputs.
 
 Features
@@ -35,7 +35,7 @@ Each word is linked to possible next words, creating a probability-based word tr
 The program randomly selects words based on learned probabilities, generating a new text sequence.
 
 
-******** Maze Solver 🏁*********
+3. ******** Maze Solver 🏁*********
 A Java-based maze solver that navigates through a grid using stack-based backtracking. This project provides an efficient way to find paths through mazes using recursive depth-first search (DFS) or similar algorithms.
 
 Features
